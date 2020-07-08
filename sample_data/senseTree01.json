@@ -1,0 +1,139 @@
+{
+  "annotator": "test@gmail.com",
+  "timestamp": 1594225676,
+  "lemma": "提",
+  "root": {
+    "node_id": "G1",
+    "title": "Group 1 (0)",
+    "children": [
+      {
+        "node_id": "G2",
+        "title": "Group 2 (1)",
+        "children": [
+          {
+            "node_id": "06743401",
+            "title": "(VC)用手以懸空的方式攜帶物體。",
+            "children": []
+          },
+          {
+            "node_id": "06743402",
+            "title": "(VC)特定身體部位由下往上運動。",
+            "children": []
+          },
+          {
+            "node_id": "06743404",
+            "title": "(VE)將後述對象交給上級或有權的人。",
+            "children": []
+          },
+          {
+            "node_id": "06743405",
+            "title": "(VE)發表後述想法或提案。",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "G3",
+        "title": "Group 3 (1)",
+        "children": [
+          {
+            "node_id": "G4",
+            "title": "Group 4 (2)",
+            "children": [
+              {
+                "node_id": "06743413",
+                "title": "(Na)書寫筆畫的一種，由左向右上斜的下鈍上尖的筆畫。",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "G5",
+            "title": "Group 5 (2)",
+            "children": [
+              {
+                "node_id": "06743406",
+                "title": "(VC)最先發現並公開後述理論或學說。",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "G6",
+            "title": "Group 6 (2)",
+            "children": [
+              {
+                "node_id": "06743407",
+                "title": "(VC)經特定程序將犯人由監獄或看守所帶出。",
+                "children": []
+              },
+              {
+                "node_id": "06743409",
+                "title": "(VC)以化學方法將特定物質由物體中取出。",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "G7",
+            "title": "Group 7 (2)",
+            "children": [
+              {
+                "node_id": "06743412",
+                "title": "(VC)比喻改變事件預定執行的時間。",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "G8",
+        "title": "Group 8 (1)",
+        "children": [
+          {
+            "node_id": "06743403",
+            "title": "(VC)經過特定程序向特定對象取得屬於主事者所擁有的金錢或物品。",
+            "children": []
+          },
+          {
+            "node_id": "06743410",
+            "title": "(VE)陳述時指涉到後述事件。",
+            "children": []
+          },
+          {
+            "node_id": "06743414",
+            "title": "(Na)一端略呈半球形的有柄器具，用來舀取流體食物。",
+            "children": []
+          },
+          {
+            "node_id": "06743415",
+            "title": "(Nf)計算成提液體的單位。",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "G9",
+        "title": "Group 9 (1)",
+        "children": [
+          {
+            "node_id": "07119801",
+            "title": "(Nb)姓。",
+            "children": []
+          },
+          {
+            "node_id": "06743408",
+            "title": "(VE)將文件列入正式紀錄，進入法律程序。",
+            "children": []
+          },
+          {
+            "node_id": "06743411",
+            "title": "(VC)增強後述精神特質。",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

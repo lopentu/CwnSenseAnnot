@@ -1,0 +1,292 @@
+[
+  {
+    "assignId": "開1200",
+    "results": {
+      "7000:10": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7000:10",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7001:6": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7001:6",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7002:6": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7002:6",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7003:3": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7003:3",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7004:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7004:1",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7005:2": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7005:2",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7006:3": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7006:3",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7007:3": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7007:3",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7008:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7008:1",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      },
+      "7009:3": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "開1200",
+        "itemId": "7009:3",
+        "candidates": [
+          "06721005",
+          "06721046"
+        ],
+        "probs": [
+          0.6,
+          0.4
+        ]
+      }
+    }
+  },
+  {
+    "assignId": "提1200",
+    "results": {
+      "7500:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7500:1",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7501:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7501:1",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7502:6": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7502:6",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7503:12": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7503:12",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7504:0": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7504:0",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7505:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7505:1",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7506:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7506:1",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7507:2": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7507:2",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7508:1": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7508:1",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      },
+      "7509:4": {
+        "annotator": "seantyh@gmail.com",
+        "timestamp": 1594136176,
+        "assignId": "提1200",
+        "itemId": "7509:4",
+        "candidates": [
+          "06743412",
+          "06743413"
+        ],
+        "probs": [
+          0.9,
+          0.1
+        ]
+      }
+    }
+  }
+]
