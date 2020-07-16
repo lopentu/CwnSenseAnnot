@@ -1,89 +1,31 @@
 {
   "annotator": "test@gmail.com",
-  "timestamp": 1594225676,
+  "timestamp": 1594711611,
   "lemma": "開",
   "root": {
-    "node_id": "G10",
-    "title": "Group 10 (0)",
+    "node_id": "G13",
+    "title": "Group 13 (0)",
+    "node_type": "group",
     "children": [
       {
-        "node_id": "G11",
-        "title": "Group 11 (1)",
+        "node_id": "G14",
+        "title": "Group 14 (1)",
+        "node_type": "group",
         "children": [
           {
-            "node_id": "G12",
-            "title": "Group 12 (2)",
+            "node_id": "G15",
+            "title": "Group 15 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "06721050",
-                "title": "(VC)比喻拓展後述知識領域或經驗。",
-                "children": []
-              },
-              {
-                "node_id": "06721030",
-                "title": "(VC)比喻決定並公佈抽獎結果。",
-                "children": []
-              }
-            ]
-          },
-          {
-            "node_id": "G13",
-            "title": "Group 13 (2)",
-            "children": [
-              {
-                "node_id": "G14",
-                "title": "Group 14 (3)",
-                "children": [
-                  {
-                    "node_id": "08048201",
-                    "title": "(Nf)計算黃金中含純金量的單位，純金的含量是二十四開。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721044",
-                    "title": "(VC)射箭時，將弓弦拉向主事者身體的方向以增加張力。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G15",
-                "title": "Group 15 (3)",
-                "children": [
-                  {
-                    "node_id": "06721056",
-                    "title": "(VC)足球比賽中，死球之後由得球的一方重新展開比賽。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721017",
-                    "title": "(VC)利用開關裝置使機器運作。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721024",
-                    "title": "(VC)以操作後述有動力的機械為職業。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721033",
-                    "title": "(VC)選舉時，計算並公佈票數。",
-                    "children": []
-                  }
-                ]
-              },
               {
                 "node_id": "G16",
                 "title": "Group 16 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721058",
-                    "title": "(VC)撞球比賽中，每一局開始擊出第一球。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721059",
-                    "title": "(VC)以言語或行動戲弄他人。",
+                    "node_id": "06721037",
+                    "title": "(VC)創始。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -91,10 +33,43 @@
               {
                 "node_id": "G17",
                 "title": "Group 17 (3)",
+                "node_type": "group",
                 "children": [
+                  {
+                    "node_id": "06721044",
+                    "title": "(VC)射箭時，將弓弦拉向主事者身體的方向以增加張力。",
+                    "node_type": "sense",
+                    "children": []
+                  },
                   {
                     "node_id": "06721054",
                     "title": "(VC)開創後述為特定對象所接受的固定事件。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721071",
+                    "title": "(VC)提供後述菜餚。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721019",
+                    "title": "(VC)利用開關裝置調節前述對象。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G18",
+                "title": "Group 18 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721007",
+                    "title": "(VC)醫生幫病人進行侵入性治療。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -102,42 +77,25 @@
             ]
           },
           {
-            "node_id": "G18",
-            "title": "Group 18 (2)",
+            "node_id": "G19",
+            "title": "Group 19 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "G19",
-                "title": "Group 19 (3)",
-                "children": [
-                  {
-                    "node_id": "06721071",
-                    "title": "(VC)提供後述菜餚。",
-                    "children": []
-                  }
-                ]
-              },
               {
                 "node_id": "G20",
                 "title": "Group 20 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721055",
-                    "title": "(VC)球類比賽中，邀請來賓以具有象徵性的動作表示球賽開始。",
+                    "node_id": "06721045",
+                    "title": "(VC)進行會議。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721083",
-                    "title": "(Nf)計算紙張大小尺寸的單位。全開尺寸等於109公分乘以78公分。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721025",
-                    "title": "(VC)擁有並使用後述廠牌的交通工具。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721003",
-                    "title": "(VC)形容門窗或容器的開口或出入口不被封閉。",
+                    "node_id": "06721047",
+                    "title": "(VC)規劃並進行有主題的活動。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -145,10 +103,38 @@
               {
                 "node_id": "G21",
                 "title": "Group 21 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721077",
-                    "title": "(VC)比喻在特定社交圈中很有影響力。",
+                    "node_id": "06721060",
+                    "title": "(VC)比喻提供或開始提供後述課程給學生修習。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G22",
+                "title": "Group 22 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721038",
+                    "title": "(VC)創立後述機構。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G23",
+                "title": "Group 23 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721080",
+                    "title": "(VC)比喻聲音達到最佳狀態。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -156,48 +142,31 @@
             ]
           },
           {
-            "node_id": "G22",
-            "title": "Group 22 (2)",
-            "children": [
-              {
-                "node_id": "06721049",
-                "title": "(VC)開闢後述道路或通道。",
-                "children": []
-              },
-              {
-                "node_id": "06721069",
-                "title": "(VC)股票或期貨市場在特定交易時段內得到後述成績。",
-                "children": []
-              },
-              {
-                "node_id": "06721006",
-                "title": "(VC)切開後述體積較大帶有厚殼的水果。",
-                "children": []
-              },
-              {
-                "node_id": "06721028",
-                "title": "(VC)公佈投標結果。",
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "node_id": "G23",
-        "title": "Group 23 (1)",
-        "children": [
-          {
             "node_id": "G24",
             "title": "Group 24 (2)",
+            "node_type": "group",
             "children": [
               {
                 "node_id": "G25",
                 "title": "Group 25 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721013",
-                    "title": "(VH)形容物體的部件不緊密結合。",
+                    "node_id": "06721053",
+                    "title": "(VC)在特定機構申請帳號。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721015",
+                    "title": "(VC)拉動抽屜使其開口與所屬主體家具不密合。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721046",
+                    "title": "(VA)參加會議。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -205,15 +174,18 @@
               {
                 "node_id": "G26",
                 "title": "Group 26 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "08048401",
-                    "title": "(Nb)姓。",
+                    "node_id": "06721073",
+                    "title": "(VH)形容笑容很完整。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721062",
-                    "title": "(VC)比喻主持賭博的人設定輸贏的條件與贏錢的倍數。",
+                    "node_id": "06721074",
+                    "title": "(VH)形容方向多、距離遠。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -221,10 +193,12 @@
               {
                 "node_id": "G27",
                 "title": "Group 27 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721052",
-                    "title": "(VC)移除限制，使其可被使用。",
+                    "node_id": "06721051",
+                    "title": "(VA)前述對象的知識領域或經驗達到說話者預期的水準。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -232,10 +206,12 @@
               {
                 "node_id": "G28",
                 "title": "Group 28 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721070",
-                    "title": "(VC)宴請賓客或聚會時有後述桌數。",
+                    "node_id": "06721024",
+                    "title": "(VC)以操作後述有動力的機械為職業。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -245,67 +221,80 @@
           {
             "node_id": "G29",
             "title": "Group 29 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "06721065",
-                "title": "(VA)開始講話或唱歌。",
-                "children": []
-              },
               {
                 "node_id": "06721067",
                 "title": "(VC)使用後述類型的詞彙或語氣，通常是負面。",
+                "node_type": "sense",
                 "children": []
               },
               {
-                "node_id": "06721079",
-                "title": "(VC)比喻第一次經歷後述新的事件。",
+                "node_id": "06721039",
+                "title": "(VC)經營後述商店或機構。",
+                "node_type": "sense",
                 "children": []
               },
               {
-                "node_id": "06721032",
-                "title": "(VC)交易談判過程中，買方或賣方提出交易價格。",
+                "node_id": "06721041",
+                "title": "(VC)有權力的機構發出具有法律效力的文件。",
+                "node_type": "sense",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "G30",
+        "title": "Group 30 (1)",
+        "node_type": "group",
+        "children": [
+          {
+            "node_id": "G31",
+            "title": "Group 31 (2)",
+            "node_type": "group",
+            "children": [
+              {
+                "node_id": "06721070",
+                "title": "(VC)宴請賓客或聚會時有後述桌數。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721075",
+                "title": "(Dfa)表事件的規模或程度高。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721020",
+                "title": "(VC)在自己家中烹調正餐。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721036",
+                "title": "(VC)比喻建立新的事件或展開事件的新階段。",
+                "node_type": "sense",
                 "children": []
               }
             ]
           },
           {
-            "node_id": "G30",
-            "title": "Group 30 (2)",
+            "node_id": "G32",
+            "title": "Group 32 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "G31",
-                "title": "Group 31 (3)",
-                "children": [
-                  {
-                    "node_id": "06721026",
-                    "title": "(VC)比喻利用夜晚休息時間工作，通常為了趕時間。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721002",
-                    "title": "(VC)將控制特定對象使其無法被打開或使用的裝置解除。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G32",
-                "title": "Group 32 (3)",
-                "children": [
-                  {
-                    "node_id": "06721035",
-                    "title": "(VC)從事件的起始點進行。",
-                    "children": []
-                  }
-                ]
-              },
               {
                 "node_id": "G33",
                 "title": "Group 33 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721080",
-                    "title": "(VC)比喻聲音達到最佳狀態。",
+                    "node_id": "06721058",
+                    "title": "(VC)撞球比賽中，每一局開始擊出第一球。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -313,10 +302,50 @@
               {
                 "node_id": "G34",
                 "title": "Group 34 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721016",
-                    "title": "(VC)執行並取得特定檔案內容。",
+                    "node_id": "06721062",
+                    "title": "(VC)比喻主持賭博的人設定輸贏的條件與贏錢的倍數。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721081",
+                    "title": "(VA)比喻人的經脈順暢。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G35",
+                "title": "Group 35 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "08048401",
+                    "title": "(Nb)姓。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721066",
+                    "title": "(VA)比喻向他人提出請求。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G36",
+                "title": "Group 36 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "08048201",
+                    "title": "(Nf)計算黃金中含純金量的單位，純金的含量是二十四開。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -324,17 +353,63 @@
             ]
           },
           {
-            "node_id": "G35",
-            "title": "Group 35 (2)",
+            "node_id": "G37",
+            "title": "Group 37 (2)",
+            "node_type": "group",
             "children": [
               {
-                "node_id": "06721037",
-                "title": "(VC)創始。",
+                "node_id": "08048301",
+                "title": "(Nf)計算溫度差的單位。",
+                "node_type": "sense",
                 "children": []
               },
               {
-                "node_id": "06721005",
-                "title": "(VC)破壞特定對象的表面，以製造出入口。",
+                "node_id": "06721059",
+                "title": "(VC)以言語或行動戲弄他人。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721027",
+                "title": "(VC)比喻使用過去被淘汰的觀點或方法。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721043",
+                "title": "(VC)比喻提出不可能實現的承諾。",
+                "node_type": "sense",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "G38",
+            "title": "Group 38 (2)",
+            "node_type": "group",
+            "children": [
+              {
+                "node_id": "06721023",
+                "title": "(VC)交通工具往特地方向行駛。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721028",
+                "title": "(VC)公佈投標結果。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721035",
+                "title": "(VC)從事件的起始點進行。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721042",
+                "title": "(VC)有權威的對象擬出需他人遵守具有指示效力的文件。",
+                "node_type": "sense",
                 "children": []
               }
             ]
@@ -342,163 +417,75 @@
         ]
       },
       {
-        "node_id": "G36",
-        "title": "Group 36 (1)",
+        "node_id": "G39",
+        "title": "Group 39 (1)",
+        "node_type": "group",
         "children": [
           {
-            "node_id": "G37",
-            "title": "Group 37 (2)",
+            "node_id": "G40",
+            "title": "Group 40 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "G38",
-                "title": "Group 38 (3)",
-                "children": [
-                  {
-                    "node_id": "06721051",
-                    "title": "(VA)前述對象的知識領域或經驗達到說話者預期的水準。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721075",
-                    "title": "(Dfa)表事件的規模或程度高。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721001",
-                    "title": "(VC)移動封閉門窗的裝置物，使其空間的出入口不被封閉。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721004",
-                    "title": "(VC)移開封閉容器的部件與主體分離。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G39",
-                "title": "Group 39 (3)",
-                "children": [
-                  {
-                    "node_id": "06721060",
-                    "title": "(VC)比喻提供或開始提供後述課程給學生修習。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721007",
-                    "title": "(VC)醫生幫病人進行侵入性治療。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G40",
-                "title": "Group 40 (3)",
-                "children": [
-                  {
-                    "node_id": "06721047",
-                    "title": "(VC)規劃並進行有主題的活動。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721048",
-                    "title": "(VC)開發後述尚未發展的地理區域。",
-                    "children": []
-                  }
-                ]
-              },
               {
                 "node_id": "G41",
                 "title": "Group 41 (3)",
-                "children": [
-                  {
-                    "node_id": "06721011",
-                    "title": "(VC)比喻既定行程的事件因特定原因而無法在預定的時間進行。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721021",
-                    "title": "(VC)扣動扳機，發射子彈。",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "node_id": "G42",
-            "title": "Group 42 (2)",
-            "children": [
-              {
-                "node_id": "06721045",
-                "title": "(VC)進行會議。",
-                "children": []
-              },
-              {
-                "node_id": "06721061",
-                "title": "(VC)印刷時製作母版。",
-                "children": []
-              },
-              {
-                "node_id": "06721010",
-                "title": "(VC)比喻報紙新聞因遭刪除或趕拍不及等原因，產生一塊空白版面而導致部分無法刊出。",
-                "children": []
-              },
-              {
-                "node_id": "06721022",
-                "title": "(VC)駕駛後述交通工具。",
-                "children": []
-              }
-            ]
-          },
-          {
-            "node_id": "G43",
-            "title": "Group 43 (2)",
-            "children": [
-              {
-                "node_id": "G44",
-                "title": "Group 44 (3)",
-                "children": [
-                  {
-                    "node_id": "06721076",
-                    "title": "(VH)形容水沸騰。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G45",
-                "title": "Group 45 (3)",
+                "node_type": "group",
                 "children": [
                   {
                     "node_id": "06721057",
                     "title": "(VC)高爾夫球比賽中，每一個比賽者的每一洞開始擊出第一球。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721018",
-                    "title": "(VC)利用開關裝置使輸送管道流通。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721031",
-                    "title": "(VC)比喻公佈中獎的獎券由前述商店賣出。",
+                    "node_id": "06721083",
+                    "title": "(Nf)計算紙張大小尺寸的單位。全開尺寸等於109公分乘以78公分。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
               },
               {
-                "node_id": "G46",
-                "title": "Group 46 (3)",
+                "node_id": "G42",
+                "title": "Group 42 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721053",
-                    "title": "(VC)在特定機構申請帳號。",
+                    "node_id": "06721061",
+                    "title": "(VC)印刷時製作母版。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721043",
-                    "title": "(VC)比喻提出不可能實現的承諾。",
+                    "node_id": "06721068",
+                    "title": "(VC)付出金錢。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G43",
+                "title": "Group 43 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721031",
+                    "title": "(VC)比喻公佈中獎的獎券由前述商店賣出。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G44",
+                "title": "Group 44 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721008",
+                    "title": "(VC)比喻使特定對象吃苦頭以達到警告的目的。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -506,65 +493,133 @@
             ]
           },
           {
-            "node_id": "G47",
-            "title": "Group 47 (2)",
+            "node_id": "G45",
+            "title": "Group 45 (2)",
+            "node_type": "group",
             "children": [
+              {
+                "node_id": "G46",
+                "title": "Group 46 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721055",
+                    "title": "(VC)球類比賽中，邀請來賓以具有象徵性的動作表示球賽開始。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721082",
+                    "title": "(VA)比喻身體的柔軟度很好。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721025",
+                    "title": "(VC)擁有並使用後述廠牌的交通工具。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721030",
+                    "title": "(VC)比喻決定並公佈抽獎結果。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G47",
+                "title": "Group 47 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721049",
+                    "title": "(VC)開闢後述道路或通道。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721032",
+                    "title": "(VC)交易談判過程中，買方或賣方提出交易價格。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "node_id": "G48",
                 "title": "Group 48 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "G49",
-                    "title": "Group 49 (4)",
-                    "children": [
-                      {
-                        "node_id": "06721014",
-                        "title": "(VC)為了取得內容物而移開密封容器或包裝物的部件。",
-                        "children": []
-                      }
-                    ]
+                    "node_id": "06721021",
+                    "title": "(VC)扣動扳機，發射子彈。",
+                    "node_type": "sense",
+                    "children": []
                   },
                   {
-                    "node_id": "G50",
-                    "title": "Group 50 (4)",
-                    "children": [
-                      {
-                        "node_id": "06721072",
-                        "title": "(VH)形容有花植物的花朵長出並舒展。",
-                        "children": []
-                      },
-                      {
-                        "node_id": "06721078",
-                        "title": "(VC)比喻男子與處女進行性行為。",
-                        "children": []
-                      },
-                      {
-                        "node_id": "06721015",
-                        "title": "(VC)拉動抽屜使其開口與所屬主體家具不密合。",
-                        "children": []
-                      }
-                    ]
+                    "node_id": "06721002",
+                    "title": "(VC)將控制特定對象使其無法被打開或使用的裝置解除。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "G49",
+            "title": "Group 49 (2)",
+            "node_type": "group",
+            "children": [
+              {
+                "node_id": "G50",
+                "title": "Group 50 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721056",
+                    "title": "(VC)足球比賽中，死球之後由得球的一方重新展開比賽。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G51",
+                "title": "Group 51 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721078",
+                    "title": "(VC)比喻男子與處女進行性行為。",
+                    "node_type": "sense",
+                    "children": []
                   },
                   {
-                    "node_id": "G51",
-                    "title": "Group 51 (4)",
-                    "children": [
-                      {
-                        "node_id": "06721012",
-                        "title": "(VC)通指物體可以緊密結合的兩個部件往相反方向運動。",
-                        "children": []
-                      }
-                    ]
+                    "node_id": "06721016",
+                    "title": "(VC)執行並取得特定檔案內容。",
+                    "node_type": "sense",
+                    "children": []
                   }
                 ]
               },
               {
                 "node_id": "G52",
                 "title": "Group 52 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721029",
-                    "title": "(VC)規定招標時可以參與的條件或決定得標的方式。",
+                    "node_id": "06721063",
+                    "title": "(VC)租用後述場地。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721072",
+                    "title": "(VH)形容有花植物的花朵長出並舒展。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -572,54 +627,70 @@
               {
                 "node_id": "G53",
                 "title": "Group 53 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721073",
-                    "title": "(VH)形容笑容很完整。",
+                    "node_id": "06721048",
+                    "title": "(VC)開發後述尚未發展的地理區域。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "node_id": "G54",
+            "title": "Group 54 (2)",
+            "node_type": "group",
+            "children": [
+              {
+                "node_id": "06721009",
+                "title": "(VC)比喻提供進入特定領域的機會。",
+                "node_type": "sense",
+                "children": []
+              },
+              {
+                "node_id": "06721022",
+                "title": "(VC)駕駛後述交通工具。",
+                "node_type": "sense",
+                "children": []
               }
             ]
           }
         ]
       },
       {
-        "node_id": "G54",
-        "title": "Group 54 (1)",
+        "node_id": "G55",
+        "title": "Group 55 (1)",
+        "node_type": "group",
         "children": [
           {
-            "node_id": "G55",
-            "title": "Group 55 (2)",
+            "node_id": "G56",
+            "title": "Group 56 (2)",
+            "node_type": "group",
             "children": [
-              {
-                "node_id": "G56",
-                "title": "Group 56 (3)",
-                "children": [
-                  {
-                    "node_id": "06721009",
-                    "title": "(VC)比喻提供進入特定領域的機會。",
-                    "children": []
-                  }
-                ]
-              },
               {
                 "node_id": "G57",
                 "title": "Group 57 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721066",
-                    "title": "(VA)比喻向他人提出請求。",
+                    "node_id": "06721079",
+                    "title": "(VC)比喻第一次經歷後述新的事件。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721068",
-                    "title": "(VC)付出金錢。",
+                    "node_id": "06721017",
+                    "title": "(VC)利用開關裝置使機器運作。",
+                    "node_type": "sense",
                     "children": []
                   },
                   {
-                    "node_id": "06721020",
-                    "title": "(VC)在自己家中烹調正餐。",
+                    "node_id": "06721034",
+                    "title": "(VC)事件或狀態從頭或特定時點起。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -627,10 +698,18 @@
               {
                 "node_id": "G58",
                 "title": "Group 58 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721039",
-                    "title": "(VC)經營後述商店或機構。",
+                    "node_id": "06721076",
+                    "title": "(VH)形容水沸騰。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721018",
+                    "title": "(VC)利用開關裝置使輸送管道流通。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -638,10 +717,18 @@
               {
                 "node_id": "G59",
                 "title": "Group 59 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721041",
-                    "title": "(VC)有權力的機構發出具有法律效力的文件。",
+                    "node_id": "06721011",
+                    "title": "(VC)比喻既定行程的事件因特定原因而無法在預定的時間進行。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721003",
+                    "title": "(VC)形容門窗或容器的開口或出入口不被封閉。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -651,50 +738,30 @@
           {
             "node_id": "G60",
             "title": "Group 60 (2)",
+            "node_type": "group",
             "children": [
               {
-                "node_id": "06721019",
-                "title": "(VC)利用開關裝置調節前述對象。",
-                "children": []
+                "node_id": "G61",
+                "title": "Group 61 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721012",
+                    "title": "(VC)通指物體可以緊密結合的兩個部件往相反方向運動。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
               },
-              {
-                "node_id": "06721038",
-                "title": "(VC)創立後述機構。",
-                "children": []
-              },
-              {
-                "node_id": "06721040",
-                "title": "(VA)商店或機構在固定時段內開始營運或維持營運。",
-                "children": []
-              },
-              {
-                "node_id": "06721042",
-                "title": "(VC)有權威的對象擬出需他人遵守具有指示效力的文件。",
-                "children": []
-              }
-            ]
-          },
-          {
-            "node_id": "G61",
-            "title": "Group 61 (2)",
-            "children": [
               {
                 "node_id": "G62",
                 "title": "Group 62 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721063",
-                    "title": "(VC)租用後述場地。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721023",
-                    "title": "(VC)交通工具往特地方向行駛。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721036",
-                    "title": "(VC)比喻建立新的事件或展開事件的新階段。",
+                    "node_id": "06721077",
+                    "title": "(VC)比喻在特定社交圈中很有影響力。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -702,10 +769,18 @@
               {
                 "node_id": "G63",
                 "title": "Group 63 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "06721046",
-                    "title": "(VA)參加會議。",
+                    "node_id": "06721052",
+                    "title": "(VC)移除限制，使其可被使用。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721029",
+                    "title": "(VC)規定招標時可以參與的條件或決定得標的方式。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -713,31 +788,12 @@
               {
                 "node_id": "G64",
                 "title": "Group 64 (3)",
+                "node_type": "group",
                 "children": [
                   {
-                    "node_id": "08048301",
-                    "title": "(Nf)計算溫度差的單位。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721074",
-                    "title": "(VH)形容方向多、距離遠。",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "node_id": "G65",
-                "title": "Group 65 (3)",
-                "children": [
-                  {
-                    "node_id": "06721008",
-                    "title": "(VC)比喻使特定對象吃苦頭以達到警告的目的。",
-                    "children": []
-                  },
-                  {
-                    "node_id": "06721027",
-                    "title": "(VC)比喻使用過去被淘汰的觀點或方法。",
+                    "node_id": "06721040",
+                    "title": "(VA)商店或機構在固定時段內開始營運或維持營運。",
+                    "node_type": "sense",
                     "children": []
                   }
                 ]
@@ -745,28 +801,143 @@
             ]
           },
           {
-            "node_id": "G66",
-            "title": "Group 66 (2)",
+            "node_id": "G65",
+            "title": "Group 65 (2)",
+            "node_type": "group",
             "children": [
               {
-                "node_id": "06721064",
-                "title": "(VC)租用旅館房間，以進行性行為。",
-                "children": []
+                "node_id": "G66",
+                "title": "Group 66 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721005",
+                    "title": "(VC)破壞特定對象的表面，以製造出入口。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
               },
               {
-                "node_id": "06721081",
-                "title": "(VA)比喻人的經脈順暢。",
-                "children": []
+                "node_id": "G67",
+                "title": "Group 67 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721026",
+                    "title": "(VC)比喻利用夜晚休息時間工作，通常為了趕時間。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
               },
               {
-                "node_id": "06721082",
-                "title": "(VA)比喻身體的柔軟度很好。",
-                "children": []
+                "node_id": "G68",
+                "title": "Group 68 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721064",
+                    "title": "(VC)租用旅館房間，以進行性行為。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
               },
               {
-                "node_id": "06721034",
-                "title": "(VC)事件或狀態從頭或特定時點起。",
-                "children": []
+                "node_id": "G69",
+                "title": "Group 69 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721050",
+                    "title": "(VC)比喻拓展後述知識領域或經驗。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721006",
+                    "title": "(VC)切開後述體積較大帶有厚殼的水果。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721001",
+                    "title": "(VC)移動封閉門窗的裝置物，使其空間的出入口不被封閉。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "G70",
+            "title": "Group 70 (2)",
+            "node_type": "group",
+            "children": [
+              {
+                "node_id": "G71",
+                "title": "Group 71 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721069",
+                    "title": "(VC)股票或期貨市場在特定交易時段內得到後述成績。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721010",
+                    "title": "(VC)比喻報紙新聞因遭刪除或趕拍不及等原因，產生一塊空白版面而導致部分無法刊出。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G72",
+                "title": "Group 72 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721065",
+                    "title": "(VA)開始講話或唱歌。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721013",
+                    "title": "(VH)形容物體的部件不緊密結合。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721014",
+                    "title": "(VC)為了取得內容物而移開密封容器或包裝物的部件。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "G73",
+                "title": "Group 73 (3)",
+                "node_type": "group",
+                "children": [
+                  {
+                    "node_id": "06721033",
+                    "title": "(VC)選舉時，計算並公佈票數。",
+                    "node_type": "sense",
+                    "children": []
+                  },
+                  {
+                    "node_id": "06721004",
+                    "title": "(VC)移開封閉容器的部件與主體分離。",
+                    "node_type": "sense",
+                    "children": []
+                  }
+                ]
               }
             ]
           }

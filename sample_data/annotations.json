@@ -1,5 +1,7 @@
 [
   {
+    "annotId": "seantyh-開1200",
+    "annotatorId": "developmentId",
     "assignId": "開1200",
     "results": {
       "7000:10": {
@@ -145,6 +147,8 @@
     }
   },
   {
+    "annotId": "seantyh-提1200",
+    "annotatorId": "developmentId",
     "assignId": "提1200",
     "results": {
       "7500:1": {
